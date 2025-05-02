@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="5704" dy="2972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3169" dy="1651" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -5031,6 +5031,80 @@
           <mxGeometry x="30" width="290" height="30" as="geometry">
             <mxRectangle width="290" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mQDDoyY3zs4gNchPsAe3" name="Page-2">
+    <mxGraphModel dx="2194" dy="1543" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-35" value="odds-validator" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="414.5" y="-36" width="100" height="407" as="geometry" />
+        </mxCell>
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="585" width="21" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.979;exitY=0.051;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.011;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-oB5kmd2ARz0YwdUVdDZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277" y="132" as="sourcePoint" />
+            <mxPoint x="454.2310000000002" y="83.92550000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.876;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.011;exitY=0.588;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="-oB5kmd2ARz0YwdUVdDZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="454.2310000000002" y="205.22599999999989" as="sourcePoint" />
+            <mxPoint x="396" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-23" value="pregame odds and ingame odds to be validated" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="241" y="45" width="193" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-24" value="validated pregame odds and ingame odds" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="243" y="170" width="193" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.186;exitY=0.364;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.09;entryY=0.155;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="225.00000000000003" y="386.0819999999999" as="sourcePoint" />
+            <mxPoint x="347.89" y="385.94000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.91;entryY=0.427;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.025;exitY=0.584;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="344.3250000000001" y="482.092" as="sourcePoint" />
+            <mxPoint x="225.00000000000006" y="480.996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.186;exitY=0.364;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.09;entryY=0.155;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="223.00000000000003" y="584.0819999999999" as="sourcePoint" />
+            <mxPoint x="346" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-29" value="log and update DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="357" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-30" value="updated Odds" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="227" y="446" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-31" value="Fire SSE to apisys" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="555" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-32" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;u&gt;Checks&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. Make sure odds are in 2DP&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. Validate that pregame odds are always smaller than the respective max odds&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a. Odds that failed the validation will be set to 0 instead&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b. Will fire out alert saying that odds failed the validation, and will be setting it to 0 instead&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="489" y="78" width="541" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-34" value="oddsys" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="165" y="-33" width="100" height="1143" as="geometry" />
+        </mxCell>
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="35" width="20" height="968" as="geometry" />
+        </mxCell>
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="454" y="84" width="21" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="-oB5kmd2ARz0YwdUVdDZ-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="386" width="21" height="97" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
